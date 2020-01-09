@@ -63,8 +63,8 @@ example
 | ------- | --------- |
 | list | tuple |
 | dict | float |
-| set | int |
+| set | frozenset |
 | byte array | complex |
 | | string |
 | | bytes |
-| | frozen set |
+| | int |
