@@ -9,9 +9,9 @@ def divide(a, b, floor=True):
     except TypeError as error:
         print(error)
         print("You should enter two integers as positional arguments and then either True or False")
-    else:
-        # print('Executing the else clause.')
-        if !a or !b:
+    # else:
+    #     # print('Executing the else clause.')
+    #     if !a or !b:
             
         
         
